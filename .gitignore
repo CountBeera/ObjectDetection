@@ -1,0 +1,14 @@
+# Ignore the full COCO download
+coco2017/
+
+# Ignore model weights / checkpoints
+models/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# environment
+.env
+*.egg-info
