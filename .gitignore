@@ -4,6 +4,11 @@ coco2017/
 # Ignore model weights / checkpoints
 models/
 
+!/models/faster_rcnn.py
+!/models/model_epoch_0.pth
+!/models/model_epoch_1.pth
+!/models/model_epoch_2.pth
+
 # Python artifacts
 __pycache__/
 *.py[cod]
